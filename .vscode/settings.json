@@ -1,0 +1,5 @@
+{
+  "php.executablePath": "D:\\OSPanel\\modules\\php\\PHP-7.0-x64\\php.exe",
+  "php.validate.executablePath": "D:\\OSPanel\\modules\\php\\PHP-7.0-x64\\php.exe",
+  "phpformatter.composer": true
+}
